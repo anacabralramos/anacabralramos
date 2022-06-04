@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on development projects
 - 🤔 I’m looking for help with soft and hard skills
 - 📫 How to reach me: ana.ramos@rethink.dev
-- 😄 Pronouns: She/her
 
 <div align="center">
   <a href="https://github.com/anacabralramos">
