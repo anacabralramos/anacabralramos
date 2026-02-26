@@ -1,10 +1,30 @@
-### Hi there! From this side Ana 👋
+# Hi, I'm Ana Clara 👋 | Mobile Engineer
 
-- 🔭 I’m currently working on software development
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on development projects
-- 🤔 I’m looking for help with soft and hard skills
-- 📫 How to reach me: ana.ramos@rethink.dev
+React Native & Mobile Infrastructure Specialist with 4+ years of experience building high-scale applications for millions of users (Fintech & Travel). Currently architecting mission-critical checkout flows at **Santander**.
+
+### 🚀 Impact & Expertise
+- **High-Scale Mobile:** Expert in React Native, CLI/Expo, and TypeScript, focused on performance optimization (60%+ TTI improvement on legacy modules).
+- **Founding Mindset:** Specialized in architecting modular systems from scratch with Clean Architecture and TDD.
+- **Security-First:** Proven experience with high-stakes data privacy and secure financial transaction protocols.
+- **AI-Driven Workflows:** Leveraging AI-native tools (Cursor/Copilot) to accelerate delivery and maintain high code quality.
+
+### 🛠 Tech Stack
+- **Mobile:** React Native, CLI, Expo, TypeScript, Expo Router, Native Modules.
+- **State & Data:** TanStack Query, Zustand, Redux Toolkit, Context API, Supabase, Firebase.
+- **Testing:** Jest, React Native Testing Library, TDD.
+- **DevOps:** CI/CD (EAS, Fastlane), App Store/Play Store automated releases.
+
+### 📂 Recent Highlights
+- **[Police Incident Reporting App]([SEU_LINK_AQUI](https://github.com/anacabralramos/police-report-FT)):** Architected a clinical-grade real-time sync engine using Supabase and Zustand for critical field operations.
+- **[Word Dynamite]:** Engineering a resilient, offline-first mobile engine with hybrid authentication.
+
+---
+
+### 📫 Connect with me:
+- **Email:** ana.clara.2cr@gmail.com
+- **LinkedIn:** [in/ana-clara-cabral-ramos](https://www.linkedin.com/in/ana-clara-cabral-ramos-31aa951a5/)
+- **Location:** Based in Brazil (Working Globally 🌎)
+
 
 <div align="center">
   <a href="https://github.com/anacabralramos">
